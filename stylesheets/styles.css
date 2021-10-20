@@ -322,3 +322,13 @@ footer {
     color:#444;
   }
 }
+
+.sectiontitle {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.bo {
+	font-weight: bold;
+	text-decoration:underline
+}

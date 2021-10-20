@@ -97,3 +97,12 @@ A.thumbnail:hover {
 .inbox {
 	PADDING-BOTTOM: 7px; MARGIN-TOP: 5px
 }
+.sectiontitle {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.bo {
+	font-weight: bold;
+	text-decoration:underline
+}
